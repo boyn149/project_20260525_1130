@@ -25,7 +25,7 @@
 *   **การหยั่งรู้จากภายใน (Introverted Intuition - Ni):** ในฐานะฟังก์ชันหลัก (Dominant Function) Ni ทำหน้าที่ประมวลผลข้อมูล ค้นหาความหมายที่ซ่อนอยู่ และเชื่อมโยงภาพรวมของสิ่งต่างๆ จากโลกภายใน  สิ่งนี้ทำให้ผู้หญิง INFJ มีระบบความคิดที่ลึกซึ้งและซับซ้อน แรงดึงดูดที่เกิดจาก Ni คือ "ความลึกลับ" (Mystery) ที่ชวนให้คนรอบข้างเกิดความสนใจและอยากค้นหาโลกภายในที่พวกเธอเก็บซ่อนไว้
 *   **ความใส่ใจต่อความรู้สึกผู้อื่น (Extraverted Feeling - Fe):** ในฐานะฟังก์ชันรอง (Auxiliary Function) Fe ช่วยสร้างสมดุลให้กับโลกภายใน ด้วยการมุ่งเน้นพลังงานไปที่การสร้างความกลมกลืนและตอบสนองต่อความต้องการของผู้อื่นในสภาพแวดล้อม  แรงดึงดูดที่เกิดจาก Fe คือ "ความเข้าอกเข้าใจ" (Empathy) ทำให้ผู้หญิง INFJ สามารถสร้างความรู้สึกอบอุ่นและทำให้คนที่อยู่ด้วยรู้สึกเป็นคนสำคัญได้อย่างเป็นธรรมชาติ
 
-[PROMPT: Informational Infographic showing the combination of Ni (Mystery) and Fe (Empathy) creating a powerful Passive Attraction aura for INFJ personality, aspect ratio 16:8, minimal style, white background. All text in the image must be in Thai.]
+![PROMPT: Informational Infographic showing the combination of Ni (Mystery) and Fe (Empathy) creating a powerful Passive Attraction aura for INFJ personality, aspect ratio 16:8, minimal style, white background. All text in the image must be in Thai.](https://raw.githubusercontent.com/boyn149/project_20260525_1130/main/book/book_book1/pic_book1/infographic_book1_1.png)
 
 เมื่อนำความลึกซึ้งของ *Ni* มาผสานกับความอบอุ่นของ *Fe* ผู้หญิง INFJ จะเกิดสภาวะที่เปรียบเสมือนแม่เหล็ก ซึ่งดึงดูดความสนใจของผู้คนโดยไม่ต้องส่งเสียงดังหรือทำตัวโดดเด่นเกินความจำเป็น
 
@@ -59,7 +59,7 @@
 | **The Star** | ใช้ *Ni* สร้างระยะห่างทางความรู้สึก นำเสนอวิสัยทัศน์ที่ลึกซึ้ง ไม่เหมือนใคร | เป้าหมายเกิดความตื่นตาตื่นใจ ปล่อยให้จินตนาการทำงานและอยากค้นหาคุณ |
 | **The Coquette** | สลับโหมดระหว่างการดูแลเอาใจใส่กับการเว้นระยะห่าง (Personal Space) | เป้าหมายเกิดความโหยหา รู้สึกท้าทาย และเป็นฝ่ายเริ่มเข้าหาคุณเอง |
 
-[PROMPT: Grid Infographic showing 3 elements of Passive Attraction for INFJ based on Art of Seduction: 1. The Ideal Lover (Fe empathy), 2. The Star (Ni mystery), 3. The Coquette (Space and boundary). Text must be entirely in Thai language, aspect ratio 16:8, minimal style, white background]
+![PROMPT: Grid Infographic showing 3 elements of Passive Attraction for INFJ based on Art of Seduction: 1. The Ideal Lover (Fe empathy), 2. The Star (Ni mystery), 3. The Coquette (Space and boundary). Text must be entirely in Thai language, aspect ratio 16:8, minimal style, white background](https://raw.githubusercontent.com/boyn149/project_20260525_1130/main/book/book_book1/pic_book1/infographic_book1_2.png)
 
 >💎 **Esther's Secret** : เสน่ห์ที่ทรงพลังที่สุดไม่ได้เกิดจากการพยายามบีบบังคับให้ใครมารัก แต่เกิดจากการสร้างพื้นที่แห่งความลึกลับและความเข้าใจ เพื่อให้คนที่ใช่เป็นฝ่ายตัดสินใจเดินเข้ามาในโลกของคุณด้วยความเต็มใจค่ะ
 
